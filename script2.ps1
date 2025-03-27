@@ -1,3 +1,4 @@
+Connect-AzAccount
 $Location="Central India"
 $ResourceGroupName="azcloudshell-grp"
 
